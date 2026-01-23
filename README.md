@@ -12,6 +12,7 @@
 - 📚 I love learning new things and improving my skills continuously
 - 🧠 I use **Notion** to manage my personal life and goals
 - ⚽ I love soccer, specially The Colombian National Team  🇨🇴
+- ⛪ I'm a youth leader in the Seventh-day Adventist Church.
 - 💪 I enjoy exercising and staying active 
 
 ---
