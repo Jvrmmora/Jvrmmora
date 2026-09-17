@@ -3,7 +3,9 @@
 
 ## ✨ Hi, I'm Javier Montaño, thanks for following my work!
 
-💻 **Backend Software Engineer** with **4+ years of experience** building scalable, reliable systems with **Node.js, TypeScript & Cloud**.
+💻 **Backend & Cloud Engineer** with **5+ years** building scalable, reliable systems with **Node.js, TypeScript & Cloud**.
+
+📊 Led the migration of **200,000+ production records** with no interruption to the business, and cut response and page load times by **up to 80%** on critical modules.
 
 📄 Currently open to new backend opportunities — local & remote.
 
@@ -14,6 +16,7 @@
 - 🔭 Currently building enterprise backend systems at **Tres Pi Medios SAS**, working on a project for **Stanley Black & Decker**
 - 🏗️ Passionate about **Clean Architecture**, **SOLID principles**, and DevOps culture
 - ☁️ Comfortable across **AWS** and **Azure**, with CI/CD pipelines in GitHub Actions & Azure DevOps
+- 🔌 I enjoy the hard parts of backend work: third-party integrations (**VTEX**, **Google Maps Platform**), data migrations and performance tuning
 - 🤝 I work closely with frontend teams (React/Next.js) to ship end-to-end features
 - 📚 I love learning new things and improving my skills continuously — recently completed certifications in Clean Architecture, DevOps, and Django
 - ⚽ I love soccer, especially the Colombian National Team 🇨🇴
@@ -31,8 +34,6 @@
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Databases**
 
@@ -46,11 +47,18 @@
 ![Azure](https://img.shields.io/badge/Azure_App_Service-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 **Frontend (familiar with)**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+**Also worked with**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
@@ -69,8 +77,8 @@
 **Organization Manager**
 Enterprise backend system for Stanley Black & Decker (via Tres Pi Medios). Built with Node.js + TypeScript, integrating Google Maps and VTEX, and handling large-scale data migrations under Clean Architecture principles.
 
-**Youth Platform — [jovenesmodelia.com](https://www.jovenesmodelia.com)**
-A complete management platform for church youth groups, in production, featuring QR check-in, gamification, and attendance tracking. Built with Node.js, TypeScript, MongoDB, and Next.js for the admin dashboard.
+**JA Manager — Youth Platform · [jovenesmodelia.com](https://www.jovenesmodelia.com)**
+A complete management platform for church youth groups, in production, featuring QR check-in, gamification, attendance tracking and a statistics dashboard. Node.js + TypeScript + MongoDB API with a React + Vite frontend, containerized with Docker and released through CI/CD pipelines to Render and Azure.
 
 ---
 
@@ -78,5 +86,4 @@ A complete management platform for church youth groups, in production, featuring
 
 - ✉️ **javim.montano@gmail.com**
 - 💼 **linkedin.com/in/jvrmmora**
-- 🌐 **jamomodev.com**
 - 🐙 GitHub: **github.com/Jvrmmora**
