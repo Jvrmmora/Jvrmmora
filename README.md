@@ -9,6 +9,8 @@
 
 📄 Currently open to new backend opportunities — local & remote.
 
+🌐 **Portfolio:** [javiermontano.dev](https://javiermontano.dev) — projects, experience and CV (ES/EN).
+
 ---
 
 ### 🚀 About me
@@ -80,10 +82,14 @@ Enterprise backend system for Stanley Black & Decker (via Tres Pi Medios). Built
 **JA Manager — Youth Platform · [jovenesmodelia.com](https://www.jovenesmodelia.com)**
 A complete management platform for church youth groups, in production, featuring QR check-in, gamification, attendance tracking and a statistics dashboard. Node.js + TypeScript + MongoDB API with a React + Vite frontend, containerized with Docker and released through CI/CD pipelines to Render and Azure.
 
+**Alexa Pomodoro** · [repo](https://github.com/Jvrmmora/alexa-pomodoro)
+A voice-controlled Pomodoro timer for Alexa (Echo) with a companion web dashboard, built with Next.js, MongoDB and Vercel.
+
 ---
 
 ### 📫 Contact
 
 - ✉️ **javim.montano@gmail.com**
+- 🌐 Portfolio: **[javiermontano.dev](https://javiermontano.dev)**
 - 💼 **linkedin.com/in/jvrmmora**
 - 🐙 GitHub: **github.com/Jvrmmora**
